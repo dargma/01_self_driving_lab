@@ -1,0 +1,3 @@
+frankfurt_000000_000294_leftImg8bit
+frankfurt_000000_000576_leftImg8bit
+frankfurt_000000_001016_leftImg8bit
